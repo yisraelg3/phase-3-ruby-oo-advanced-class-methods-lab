@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-- Build custom class constructors.
-- Build class finders.
-- Build class operators.
+- Build custom class constructors
+- Build class finders
+- Build class operators
 
 ## Instructions
 
